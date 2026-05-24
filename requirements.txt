@@ -1,0 +1,14 @@
+# Python 3.10 dependencies
+# Install with: pip install -r requirements.txt
+
+pandas==2.3.3
+numpy==2.2.6
+scipy==1.15.3
+statsmodels==0.14.6
+matplotlib>=3.10
+seaborn>=0.13
+openpyxl>=3.1
+python-docx>=1.1
+
+# Optional: for vector PDF rendering
+cairosvg>=2.7

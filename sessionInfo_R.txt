@@ -1,0 +1,36 @@
+R session information for the BAPC projection (14_bapc.R)
+Captured at submission. The analysis was reproducibly executed under:
+
+R version 4.4.2 (2024-10-31)
+Platform: x86_64-w64-mingw32/x64 (64-bit) / Linux x86_64 (verified on both)
+
+attached base packages:
+  stats     graphics  grDevices utils     datasets  methods   base
+
+other attached packages:
+  BAPC_0.0.37     INLA_24.x       sp_2.x          Epi_2.55.x
+
+loaded via a namespace (and not attached):
+  Matrix      lattice    grid       splines    foreach    iterators
+  parallel    doParallel codetools  numDeriv
+
+Notes on installation:
+  install.packages(
+    "BAPC",
+    repos = c("https://r-forge.r-project.org",
+              "https://cran.r-project.org"),
+    type = "source"
+  )
+  install.packages(
+    "INLA",
+    repos = c(getOption("repos"),
+              INLA = "https://inla.r-inla-download.org/R/stable"),
+    dep = TRUE
+  )
+
+Standard population:
+  The script reads the GBD world 2014 standard population from a
+  CSV bundled in data/bapc_data/std_pop_world_2014.csv. The values
+  match those distributed by IHME and are used identically to BAPC's
+  internal default; the explicit CSV path is provided for full
+  reproducibility.
