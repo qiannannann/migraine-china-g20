@@ -1,0 +1,19 @@
+measure,aggregate,china_EAPC_pct,aggregate_EAPC_pct,eapc_diff_pct,eapc_diff_95CI,Z,p_value,n_China,n_aggregate
+ASPR,IHME official G20,0.28,0.125,0.154,"(0.112, 0.197)",7.096,1.29e-12,34,34
+ASPR,Pop-weighted G20 (19 sovs),0.28,0.106,0.174,"(0.132, 0.216)",8.168,2.22e-16,34,34
+ASPR,Pop-weighted G20 ex-China,0.28,-0.004,0.284,"(0.243, 0.325)",13.648,0,34,34
+ASPR,Median across 19 G20 sovs,0.28,-0.022,0.302,"(0.254, 0.349)",12.371,0,34,34
+ASPR,Pop-weighted Tier 1+2,0.28,0.113,0.166,"(0.124, 0.209)",7.666,1.78e-14,34,34
+ASPR,Pop-weighted Tier 1+2 ex-China,0.28,-0.029,0.309,"(0.268, 0.350)",14.658,0,34,34
+ASIR,IHME official G20,0.237,0.142,0.095,"(0.056, 0.133)",4.814,1.48e-06,34,34
+ASIR,Pop-weighted G20 (19 sovs),0.237,0.105,0.132,"(0.096, 0.167)",7.208,5.66e-13,34,34
+ASIR,Pop-weighted G20 ex-China,0.237,0.013,0.224,"(0.189, 0.258)",12.712,0,34,34
+ASIR,Median across 19 G20 sovs,0.237,0.015,0.222,"(0.186, 0.258)",12.071,0,34,34
+ASIR,Pop-weighted Tier 1+2,0.237,0.112,0.125,"(0.088, 0.161)",6.685,2.31e-11,34,34
+ASIR,Pop-weighted Tier 1+2 ex-China,0.237,-0.007,0.244,"(0.209, 0.279)",13.746,0,34,34
+ASDR,IHME official G20,0.285,0.109,0.177,"(0.133, 0.220)",8.007,1.11e-15,34,34
+ASDR,Pop-weighted G20 (19 sovs),0.285,0.103,0.182,"(0.140, 0.225)",8.327,0,34,34
+ASDR,Pop-weighted G20 ex-China,0.285,-0.009,0.294,"(0.253, 0.335)",13.948,0,34,34
+ASDR,Median across 19 G20 sovs,0.285,0.03,0.256,"(0.195, 0.316)",8.285,2.22e-16,34,34
+ASDR,Pop-weighted Tier 1+2,0.285,0.112,0.173,"(0.129, 0.217)",7.748,9.33e-15,34,34
+ASDR,Pop-weighted Tier 1+2 ex-China,0.285,-0.032,0.317,"(0.276, 0.359)",14.985,0,34,34

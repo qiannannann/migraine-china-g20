@@ -1,0 +1,25 @@
+aggregate,measure,aggregate_EAPC,aggregate_95CI,china_EAPC,china_95CI,china_minus_agg
+IHME official G20,ASPR,0.125,"(0.11, 0.14)",0.28,"(0.24, 0.32)",0.155
+IHME official G20,ASIR,0.142,"(0.12, 0.16)",0.237,"(0.20, 0.27)",0.095
+IHME official G20,ASDR,0.109,"(0.09, 0.12)",0.285,"(0.24, 0.33)",0.177
+"Unweighted mean, all 19 G20",ASPR,0.016,"(0.01, 0.03)",0.28,"(0.24, 0.32)",0.263
+"Unweighted mean, all 19 G20",ASIR,0.019,"(0.01, 0.03)",0.237,"(0.20, 0.27)",0.218
+"Unweighted mean, all 19 G20",ASDR,0.011,"(-0.01, 0.03)",0.285,"(0.24, 0.33)",0.275
+"Pop-weighted mean, all 19 G20",ASPR,0.106,"(0.09, 0.12)",0.28,"(0.24, 0.32)",0.174
+"Pop-weighted mean, all 19 G20",ASIR,0.105,"(0.09, 0.12)",0.237,"(0.20, 0.27)",0.132
+"Pop-weighted mean, all 19 G20",ASDR,0.103,"(0.09, 0.12)",0.285,"(0.24, 0.33)",0.183
+"Median, all 19 G20",ASPR,-0.022,"(-0.05, 0.00)",0.28,"(0.24, 0.32)",0.302
+"Median, all 19 G20",ASIR,0.015,"(0.00, 0.03)",0.237,"(0.20, 0.27)",0.222
+"Median, all 19 G20",ASDR,0.03,"(-0.01, 0.07)",0.285,"(0.24, 0.33)",0.256
+"Pop-weighted mean, G20 ex-China",ASPR,-0.004,"(-0.01, 0.00)",0.28,"(0.24, 0.32)",0.284
+"Pop-weighted mean, G20 ex-China",ASIR,0.013,"(0.01, 0.02)",0.237,"(0.20, 0.27)",0.224
+"Pop-weighted mean, G20 ex-China",ASDR,-0.009,"(-0.01, -0.00)",0.285,"(0.24, 0.33)",0.294
+"Pop-weighted mean, Tier 1+2 (data-rich)",ASPR,0.113,"(0.10, 0.13)",0.28,"(0.24, 0.32)",0.166
+"Pop-weighted mean, Tier 1+2 (data-rich)",ASIR,0.112,"(0.10, 0.13)",0.237,"(0.20, 0.27)",0.125
+"Pop-weighted mean, Tier 1+2 (data-rich)",ASDR,0.112,"(0.10, 0.13)",0.285,"(0.24, 0.33)",0.173
+"Pop-weighted mean, Tier 1+2 ex-China",ASPR,-0.029,"(-0.04, -0.02)",0.28,"(0.24, 0.32)",0.309
+"Pop-weighted mean, Tier 1+2 ex-China",ASIR,-0.007,"(-0.01, 0.00)",0.237,"(0.20, 0.27)",0.244
+"Pop-weighted mean, Tier 1+2 ex-China",ASDR,-0.032,"(-0.04, -0.03)",0.285,"(0.24, 0.33)",0.317
+"Pop-weighted mean, Tier 1+2+3 (exclude zero-data)",ASPR,0.113,"(0.10, 0.13)",0.28,"(0.24, 0.32)",0.167
+"Pop-weighted mean, Tier 1+2+3 (exclude zero-data)",ASIR,0.112,"(0.10, 0.12)",0.237,"(0.20, 0.27)",0.125
+"Pop-weighted mean, Tier 1+2+3 (exclude zero-data)",ASDR,0.109,"(0.10, 0.12)",0.285,"(0.24, 0.33)",0.176

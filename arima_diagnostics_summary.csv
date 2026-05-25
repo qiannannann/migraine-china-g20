@@ -1,0 +1,7 @@
+country,measure,selected_order,AIC,BIC,AICc,ADF_raw_pvalue,ADF_raw_stationary,ADF_d1_pvalue,ADF_d1_stationary,Ljung_Box_lag5_p,Ljung_Box_lag10_p,residuals_white_noise_lag10,heldout_train_period,heldout_test_period,heldout_MAE,heldout_RMSE,heldout_MAPE_pct
+China,ASPR,"(0, 2, 2)",293.64,298.04,294.5,1.0,False,0.9951,False,0.3198,0.8266,True,1990-2015,2016-2023,246.282,268.232,2.149
+China,ASIR,"(0, 2, 2)",128.04,132.43,128.89,1.0,False,0.997,False,0.3223,0.8286,True,1990-2015,2016-2023,16.441,17.938,1.719
+China,ASDR,"(0, 2, 1)",91.0,93.93,91.41,1.0,False,0.0044,True,0.3242,0.83,True,1990-2015,2016-2023,10.051,10.94,2.503
+G20,ASPR,"(0, 2, 2)",229.86,234.26,230.72,0.3457,False,0.1759,False,0.3218,0.8283,True,1990-2015,2016-2023,108.948,118.574,0.778
+G20,ASIR,"(0, 2, 2)",55.27,59.67,56.13,1.0,False,0.9975,False,0.322,0.8284,True,1990-2015,2016-2023,2.909,3.297,0.253
+G20,ASDR,"(1, 1, 1)",53.85,58.33,54.67,0.0432,True,0.0629,False,1.0,1.0,True,1990-2015,2016-2023,3.77,4.035,0.778

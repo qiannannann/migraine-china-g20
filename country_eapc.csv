@@ -1,0 +1,58 @@
+country,tier,measure,eapc,eapc_lo,eapc_hi
+Argentina,3,ASPR,0.162,0.135,0.189
+Argentina,3,ASIR,0.115,0.095,0.135
+Argentina,3,ASDR,0.148,0.121,0.175
+Australia,4,ASPR,0.004,0.003,0.005
+Australia,4,ASIR,0.001,-0.0,0.002
+Australia,4,ASDR,-0.02,-0.024,-0.015
+Brazil,1,ASPR,0.095,0.035,0.154
+Brazil,1,ASIR,0.104,0.02,0.188
+Brazil,1,ASDR,0.092,0.041,0.144
+Canada,3,ASPR,-0.088,-0.109,-0.068
+Canada,3,ASIR,-0.022,-0.03,-0.014
+Canada,3,ASDR,-0.111,-0.138,-0.085
+China,2,ASPR,0.28,0.24,0.32
+China,2,ASIR,0.237,0.203,0.271
+China,2,ASDR,0.285,0.244,0.326
+France,2,ASPR,-0.04,-0.056,-0.024
+France,2,ASIR,-0.028,-0.038,-0.019
+France,2,ASDR,-0.044,-0.068,-0.021
+Germany,1,ASPR,0.02,-0.051,0.091
+Germany,1,ASIR,0.022,-0.001,0.046
+Germany,1,ASDR,-0.0,-0.069,0.069
+India,2,ASPR,-0.022,-0.048,0.005
+India,2,ASIR,-0.027,-0.049,-0.005
+India,2,ASDR,0.008,-0.013,0.03
+Indonesia,4,ASPR,-0.018,-0.018,-0.017
+Indonesia,4,ASIR,-0.016,-0.017,-0.016
+Indonesia,4,ASDR,-0.008,-0.012,-0.003
+Italy,2,ASPR,0.087,-0.033,0.207
+Italy,2,ASIR,0.037,-0.032,0.107
+Italy,2,ASDR,0.101,-0.029,0.232
+Japan,3,ASPR,0.119,0.09,0.149
+Japan,3,ASIR,0.113,0.087,0.138
+Japan,3,ASDR,0.085,0.06,0.111
+Mexico,3,ASPR,0.055,0.047,0.064
+Mexico,3,ASIR,0.043,0.036,0.051
+Mexico,3,ASDR,0.05,0.038,0.062
+Russia,2,ASPR,0.002,-0.023,0.027
+Russia,2,ASIR,-0.002,-0.008,0.004
+Russia,2,ASDR,0.019,-0.032,0.07
+Saudi Arabia,3,ASPR,-0.069,-0.081,-0.058
+Saudi Arabia,3,ASIR,-0.057,-0.072,-0.043
+Saudi Arabia,3,ASDR,-0.101,-0.127,-0.075
+South Africa,4,ASPR,-0.013,-0.017,-0.01
+South Africa,4,ASIR,-0.014,-0.017,-0.012
+South Africa,4,ASDR,-0.055,-0.06,-0.049
+South Korea,2,ASPR,-0.232,-0.286,-0.178
+South Korea,2,ASIR,-0.158,-0.191,-0.126
+South Korea,2,ASDR,-0.186,-0.233,-0.139
+Turkey,1,ASPR,0.012,-0.015,0.038
+Turkey,1,ASIR,0.019,0.006,0.031
+Turkey,1,ASDR,0.026,0.012,0.04
+United Kingdom,3,ASPR,0.024,0.015,0.032
+United Kingdom,3,ASIR,0.015,0.01,0.021
+United Kingdom,3,ASDR,-0.014,-0.021,-0.007
+United States,2,ASPR,-0.001,-0.091,0.089
+United States,2,ASIR,0.015,-0.058,0.089
+United States,2,ASDR,-0.009,-0.088,0.07

@@ -1,0 +1,10 @@
+measure,model,n_obs,n_countries,sdi_coef,sdi_se,sdi_p,sdi_95CI_lo,sdi_95CI_hi,sigma_country,aic
+ASPR,All G20 (Tier 1-4),646,19,442.63,190.24,0.01998,69.75,815.5,2744.77,
+ASPR,Tier 1-3 (exclude zero-data Tier 4),544,16,555.46,221.51,0.01216,121.3,989.62,2948.22,
+ASPR,Tier 1+2 only (data-rich),340,10,844.45,341.72,0.01347,174.69,1514.21,2971.4,
+ASIR,All G20 (Tier 1-4),646,19,38.31,11.27,0.0006777,16.21,60.4,191.52,
+ASIR,Tier 1-3 (exclude zero-data Tier 4),544,16,48.0,13.1,0.0002474,22.33,73.67,204.69,
+ASIR,Tier 1+2 only (data-rich),340,10,69.04,20.21,0.0006329,29.44,108.65,207.5,
+ASDR,All G20 (Tier 1-4),646,19,14.03,6.79,0.03891,0.71,27.34,97.4,
+ASDR,Tier 1-3 (exclude zero-data Tier 4),544,16,19.68,7.89,0.01257,4.22,35.13,103.54,
+ASDR,Tier 1+2 only (data-rich),340,10,39.53,11.99,0.000975,16.03,63.02,103.15,

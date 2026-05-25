@@ -1,0 +1,19 @@
+spec,measure,k_joinpoints,joinpoint_years,BIC
+"Baseline (max 2 jp, min 3 yr)",ASPR,2,"2001, 2005",290.41
+"Baseline (max 2 jp, min 3 yr)",ASIR,2,"2001, 2005",106.57
+"Baseline (max 2 jp, min 3 yr)",ASDR,2,"2003, 2018",66.82
+Max 1 joinpoint (most conservative),ASPR,1,2003,296.16
+Max 1 joinpoint (most conservative),ASIR,1,2003,114.91
+Max 1 joinpoint (most conservative),ASDR,1,2003,72.72
+Max 3 joinpoints,ASPR,3,"2001, 2005, 2018",258.89
+Max 3 joinpoints,ASIR,3,"2001, 2005, 2018",78.28
+Max 3 joinpoints,ASDR,3,"2001, 2005, 2018",37.63
+Min segment 5 yrs,ASPR,2,"2001, 2006",290.66
+Min segment 5 yrs,ASIR,2,"2001, 2006",107.12
+Min segment 5 yrs,ASDR,2,"2003, 2018",66.82
+Pre-pandemic 1990-2019,ASPR,2,"2001, 2005",249.76
+Pre-pandemic 1990-2019,ASIR,2,"2001, 2005",86.76
+Pre-pandemic 1990-2019,ASDR,2,"2001, 2005",55.39
+Exclude 2020-2023,ASPR,2,"2001, 2005",249.76
+Exclude 2020-2023,ASIR,2,"2001, 2005",86.76
+Exclude 2020-2023,ASDR,2,"2001, 2005",55.39

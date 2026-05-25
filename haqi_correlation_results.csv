@@ -1,0 +1,4 @@
+measure,pearson_abs_change,pearson_abs_p,spearman_abs_change,spearman_abs_p,pearson_pct_change,pearson_pct_p,spearman_pct_change,spearman_pct_p
+ASPR,0.073,0.7677,0.065,0.7918,0.083,0.7351,0.033,0.8922
+ASIR,0.108,0.661,-0.012,0.9602,0.113,0.6457,-0.023,0.9262
+ASDR,0.198,0.4168,0.228,0.3477,0.205,0.3994,0.168,0.4907
